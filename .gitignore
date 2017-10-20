@@ -1,0 +1,4 @@
+.tern-port
+compile_commands.json
+node_modules
+ping
